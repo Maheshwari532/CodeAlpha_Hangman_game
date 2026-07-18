@@ -31,10 +31,14 @@ Hangman/
 <h2>Installation</h2>
 Clone the repository:
 git clone https://github.com/your-username/hangman-game.git
+<br>
 Navigate to the project folder:
+<br>
 cd hangman-game
+<br>
 Run the program:
 python app.py
+<br>
 Sample Output
 Word: _ _ _ _ _
 
@@ -48,25 +52,7 @@ Guess a character: z
 
 Wrong Guess!
 
-Learning Outcomes
-
-This project helped in understanding:
-
-Python loops (while, for)
-Conditional statements (if-else)
-Lists and strings
-User input handling
-Random module
-Game logic implementation
-Future Improvements
-Add difficulty levels
-Read words from a file
-GUI version using Tkinter
-Score tracking
-Multiplayer mode
-Author
-
-Maheshwari Inamadar
-
-Computer Science and Engineering Student
+<h3>Author</h3>
+<h4>Maheshwari Inamadar</h4>
+<h4>Computer Science and Engineering Student</h4>
 Python

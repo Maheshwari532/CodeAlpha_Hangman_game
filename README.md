@@ -1,4 +1,4 @@
-Hangman Game in Python
+<h1>Hangman Game in Python</h1>
 Overview
 
 This is a simple command-line Hangman game built using Python. The game randomly selects a word from a predefined list, and the player must guess the word one letter at a time before the hangman drawing is completed.

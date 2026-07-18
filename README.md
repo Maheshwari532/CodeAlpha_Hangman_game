@@ -1,18 +1,20 @@
 <h1>Hangman Game in Python</h1>
-Overview
+<h2>Overview</h2>
 
 This is a simple command-line Hangman game built using Python. The game randomly selects a word from a predefined list, and the player must guess the word one letter at a time before the hangman drawing is completed.
 
-Features
+<h2>Features</h2>
 Random word selection
 Letter-by-letter guessing
 Tracks correct and incorrect guesses
 Win and lose conditions
 Beginner-friendly Python project
-Technologies Used
+
+<h2>Technologies Used</h2>
 Python 3
 Random Module
-How the Game Works
+
+<h2>How the Game Works</h2>
 A random word is selected from the word list.
 The player guesses one character at a time.
 If the guessed character exists in the word, it is revealed.
@@ -25,7 +27,8 @@ Hangman/
 │
 ├── app.py
 └── README.md
-Installation
+
+<h2>Installation</h2>
 Clone the repository:
 git clone https://github.com/your-username/hangman-game.git
 Navigate to the project folder:
